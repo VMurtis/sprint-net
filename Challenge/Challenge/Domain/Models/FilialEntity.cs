@@ -12,12 +12,12 @@ namespace Challenge.Domain.Models
     {
         [Key]
         [Column("cd_filial")]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // equivalente ao @GeneratedValue
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)] 
         public long Id { get; set; }
 
         [Column("filial_nome")]
-        [Required]                    // equivalente a nullable = false
-        [MaxLength(100)]              // equivalente a length = 100
+        [Required]                    
+        [MaxLength(100)]              
         public string FilialNome { get; set; } = string.Empty;
 
         [Column("endereco")]

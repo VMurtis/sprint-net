@@ -27,6 +27,8 @@ namespace Challenge.Domain.Models
         [RegularExpression(@"^\(?\d{2}\)?\s?\d{4,5}-?\d{4}$", ErrorMessage = "Telefone inválido. Formato esperado: (99) 99999-9999")]
         public string Telefone { get; set; } = string.Empty;
 
+
+
         internal UsuarioEntity ToUsuarioEntity()
         {
             throw new NotImplementedException();

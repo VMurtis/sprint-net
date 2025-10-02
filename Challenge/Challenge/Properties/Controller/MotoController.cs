@@ -39,25 +39,7 @@ namespace Challenge.Properties.Controller
         [SwaggerResponseExample(statusCode: 200, typeof(MotoResponseListSample))]
         public async Task<IActionResult> Get()
         {
-            /*var usuarios = await _context.Usuario.ToListAsync();
-            if (!usuarios.Any())
-                return NoContent();
-
-            var Id = result.FirstOrDefault()?.Id ?? 0;
-
-            var hateoas = new
-            {
-                data = result,
-                links = new
-                {
-                    self = Url.Action(nameof(Get), "Usuario", null),
-                    getById = Url.Action(nameof(Get), "Usuario", new { id = Id }),
-                    put = Url.Action(nameof(Put), "Usuario", new { id = Id }),
-                    delete = Url.Action(nameof(Delete), "Usuario", new { Id = Id }),
-                }
-
-
-            };*/
+            
             var motos = await _context.Moto.ToListAsync();
             if (!motos.Any())
                 return NoContent();
@@ -77,8 +59,6 @@ namespace Challenge.Properties.Controller
                     m.Localizacao,
                     m.StatusAtual,
                     m.IdFilial,
-                    //m.MotoLogId,
-                    m.UsuarioId2,
                     m.FilialId,
                     links = new
                     {
@@ -100,7 +80,7 @@ namespace Challenge.Properties.Controller
             return Ok(hateoas);
         }
 
-        // ====================== GET BY ID ======================
+        
         [SwaggerOperation(
             Summary = "Busca um Moto pelo ID",
             Description = "Retorna um Moto específico a partir do seu ID.")]
@@ -117,7 +97,7 @@ namespace Challenge.Properties.Controller
             return Ok(result);
         }
 
-        // ====================== POST ======================
+        
         [HttpPost]
         [SwaggerRequestExample(typeof(MotoDto), typeof(MotoRequestSample))]
         [SwaggerResponse(statusCode: 201, description: "Moto salvo com sucesso", type: typeof(MotoEntity))]
@@ -125,22 +105,7 @@ namespace Challenge.Properties.Controller
         [SwaggerResponseExample(statusCode: 201, typeof(MotoResponseSample))]
         public async Task<IActionResult> Post(int id, MotoDto entity)
         {
-            /*if (!ModelState.IsValid)
-                return BadRequest(ModelState);
 
-            // Convertendo DTO para Entity
-            var usuarioEntity = new UsuarioEntity
-            {
-                Nome = entity.Nome,
-                Email = entity.Email,
-                Cpf = entity.Cpf,
-                Telefone = entity.Telefone
-            };
-
-            _context.Usuario.Add(usuarioEntity);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction(nameof(Get), new { id = usuarioEntity.Id }, usuarioEntity);*/
             try
             {
                 var result
@@ -153,7 +118,7 @@ namespace Challenge.Properties.Controller
             }
         }
 
-        // ====================== PUT ======================
+        
         [SwaggerOperation(
             Summary = "Atualiza um moto existente",
             Description = "Atualiza os dados de um moto já cadastrado.")]
@@ -162,18 +127,7 @@ namespace Challenge.Properties.Controller
         [HttpPut("{id}")]
         public async Task<IActionResult> Put(int id, MotoDto entity)
         {
-            /*var usuarioExists = await _context.Usuario.FindAsync(id);
-            if (usuarioExists is null)
-                return NotFound();
 
-            usuarioExists.Nome = usuarioEntity.Nome;
-            usuarioExists.Email = usuarioEntity.Email;
-            usuarioExists.Cpf = usuarioEntity.Cpf;
-            usuarioExists.Telefone = usuarioEntity.Telefone;
-
-            _context.Usuario.Update(usuarioExists);
-            await _context.SaveChangesAsync();
-            return Ok(usuarioExists);*/
 
             var result = await _motoRepository.EditarAsync(id, entity.ToMotoEntity());
 
@@ -182,7 +136,7 @@ namespace Challenge.Properties.Controller
             return Ok(entity);
         }
 
-        // ====================== DELETE ======================
+        
         [SwaggerOperation(
             Summary = "Exclui um moto",
             Description = "Remove um moto específico do banco de dados.")]

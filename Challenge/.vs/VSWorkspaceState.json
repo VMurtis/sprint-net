@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Challenge",
+    "\\Challenge\\Application",
+    "\\Challenge\\Application\\Dtos",
+    "\\Challenge\\Infrastructure",
+    "\\Challenge\\Infrastructure\\Data",
+    "\\Challenge\\Infrastructure\\Data\\Interfaces",
+    "\\Challenge\\Infrastructure\\Data\\Repository",
+    "\\Challenge\\Properties",
+    "\\Challenge\\Properties\\Controller"
+  ],
+  "SelectedNode": "\\Challenge\\Application\\Dtos\\FilialDto.cs",
+  "PreviewInSolutionExplorer": false
+}

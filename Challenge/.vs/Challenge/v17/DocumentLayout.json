@@ -1,165 +1,157 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vinic\\source\\repos\\Challenge\\",
+  "WorkspaceRootPath": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\properties\\controller\\filialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\properties\\controller\\filialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Dtos\\FilialDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Application\\Dtos\\FilialDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\FilialRepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Infrastructure\\Data\\Repository\\FilialRepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IFialialRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Infrastructure\\Data\\Interfaces\\IFialialRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\challenge.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\challenge.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Domain\\Models\\MotoEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Domain\\Models\\MotoEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\doc\\samples\\filialrequestsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\doc\\samples\\filialrequestsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Domain\\Models\\UsuarioEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Domain\\Models\\UsuarioEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\properties\\controller\\usuariocontrollerer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\properties\\controller\\usuariocontrollerer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Properties\\Controller\\MotoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Properties\\Controller\\MotoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\doc\\samples\\filialresponselistsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\doc\\samples\\filialresponselistsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Dtos\\MotoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Application\\Dtos\\MotoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\application\\mappers\\filialmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\application\\mappers\\filialmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Properties\\Controller\\FilialController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Properties\\Controller\\FilialController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\application\\dtos\\filialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\application\\dtos\\filialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Domain\\Models\\FilialEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Domain\\Models\\FilialEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\domain\\models\\motoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\domain\\models\\motoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\UsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Infrastructure\\Data\\Repository\\UsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\doc\\samples\\motorequestsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\doc\\samples\\motorequestsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IMotoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Infrastructure\\Data\\Interfaces\\IMotoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\domain\\models\\filialentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\domain\\models\\filialentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Mappers\\MotoMappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Application\\Mappers\\MotoMappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\doc\\samples\\motoresponselistsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\doc\\samples\\motoresponselistsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\MotoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Infrastructure\\Data\\Repository\\MotoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\doc\\samples\\motoresponsesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\doc\\samples\\motoresponsesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Properties\\Controller\\UsuarioControllerer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Properties\\Controller\\UsuarioControllerer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\properties\\controller\\motocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\properties\\controller\\motocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Dtos\\UsuarioDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Application\\Dtos\\UsuarioDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\doc\\samples\\filialresponsesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\doc\\samples\\filialresponsesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Mappers\\UsuarioMappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Application\\Mappers\\UsuarioMappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\doc\\samples\\usuarioresponsesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\doc\\samples\\usuarioresponsesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\doc\\samples\\usuarioresponselistsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\doc\\samples\\usuarioresponselistsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\doc\\samples\\usuariorequestsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\doc\\samples\\usuariorequestsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\infrastructure\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\infrastructure\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\infrastructure\\data\\repository\\motorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\infrastructure\\data\\repository\\motorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\infrastructure\\data\\interfaces\\imotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\infrastructure\\data\\interfaces\\imotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\infrastructure\\data\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\infrastructure\\data\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\application\\mappers\\motomappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\application\\mappers\\motomappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\application\\dtos\\motodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\application\\dtos\\motodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\infrastructure\\data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\infrastructure\\data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\domain\\models\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\domain\\models\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\application\\mappers\\usuariomappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\application\\mappers\\usuariomappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\infrastructure\\data\\interfaces\\ifialialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\infrastructure\\data\\interfaces\\ifialialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\infrastructure\\data\\repository\\filialrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\infrastructure\\data\\repository\\filialrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\application\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\application\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\challenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\challenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\challenge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\challenge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\challenge.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\challenge.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\domain\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\domain\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|c:\\users\\vinic\\source\\repos\\challenge\\challenge\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F086DA8A-D08B-4126-8C59-79FF37E17C36}|Challenge\\Challenge.csproj|solutionrelative:challenge\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IUsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Infrastructure\\Data\\Interfaces\\IUsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.121\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\FilialResponseListSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Doc\\Samples\\FilialResponseListSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Challenge.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Challenge.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Mappers\\FilialMappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Application\\Mappers\\FilialMappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\FilialRequestSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Doc\\Samples\\FilialRequestSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\MotoResponseSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Doc\\Samples\\MotoResponseSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\MotoRequestSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Doc\\Samples\\MotoRequestSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\MotoResponseListSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Doc\\Samples\\MotoResponseListSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\UsuarioResponseSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Doc\\Samples\\UsuarioResponseSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\FilialResponseSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Doc\\Samples\\FilialResponseSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\UsuarioResponseListSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Doc\\Samples\\UsuarioResponseListSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\UsuarioRequestSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Doc\\Samples\\UsuarioRequestSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Infrastructure\\Data\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Challenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Challenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Challenge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Challenge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Challenge.csproj.Backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge\\Challenge.csproj.Backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -169,15 +161,236 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MotoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Domain\\Models\\MotoEntity.cs",
+              "RelativeDocumentMoniker": "Challenge\\Domain\\Models\\MotoEntity.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Domain\\Models\\MotoEntity.cs",
+              "RelativeToolTip": "Challenge\\Domain\\Models\\MotoEntity.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAADkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T22:59:36.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MotoController.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Properties\\Controller\\MotoController.cs",
+              "RelativeDocumentMoniker": "Challenge\\Properties\\Controller\\MotoController.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Properties\\Controller\\MotoController.cs",
+              "RelativeToolTip": "Challenge\\Properties\\Controller\\MotoController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:16:12.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Domain\\Models\\UsuarioEntity.cs",
+              "RelativeDocumentMoniker": "Challenge\\Domain\\Models\\UsuarioEntity.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Domain\\Models\\UsuarioEntity.cs",
+              "RelativeToolTip": "Challenge\\Domain\\Models\\UsuarioEntity.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:15:43.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IFialialRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IFialialRepository.cs",
+              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\Interfaces\\IFialialRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IFialialRepository.cs",
+              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\Interfaces\\IFialialRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:55:08.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilialRepositiry.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\FilialRepositiry.cs",
+              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\Repository\\FilialRepositiry.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\FilialRepositiry.cs",
+              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\Repository\\FilialRepositiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:59:46.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilialDto.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Dtos\\FilialDto.cs",
+              "RelativeDocumentMoniker": "Challenge\\Application\\Dtos\\FilialDto.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Dtos\\FilialDto.cs",
+              "RelativeToolTip": "Challenge\\Application\\Dtos\\FilialDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:37:56.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MotoDto.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Dtos\\MotoDto.cs",
+              "RelativeDocumentMoniker": "Challenge\\Application\\Dtos\\MotoDto.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Dtos\\MotoDto.cs",
+              "RelativeToolTip": "Challenge\\Application\\Dtos\\MotoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:12:06.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilialController.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Properties\\Controller\\FilialController.cs",
+              "RelativeDocumentMoniker": "Challenge\\Properties\\Controller\\FilialController.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Properties\\Controller\\FilialController.cs",
+              "RelativeToolTip": "Challenge\\Properties\\Controller\\FilialController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwGEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:37:15.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilialEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Domain\\Models\\FilialEntity.cs",
+              "RelativeDocumentMoniker": "Challenge\\Domain\\Models\\FilialEntity.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Domain\\Models\\FilialEntity.cs",
+              "RelativeToolTip": "Challenge\\Domain\\Models\\FilialEntity.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T23:05:07.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:44:01.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IMotoRepository.cs",
+              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\Interfaces\\IMotoRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IMotoRepository.cs",
+              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\Interfaces\\IMotoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T23:29:41.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MotoMappers.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Mappers\\MotoMappers.cs",
+              "RelativeDocumentMoniker": "Challenge\\Application\\Mappers\\MotoMappers.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Mappers\\MotoMappers.cs",
+              "RelativeToolTip": "Challenge\\Application\\Mappers\\MotoMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:24:38.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\MotoRepository.cs",
+              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\Repository\\MotoRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\MotoRepository.cs",
+              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\Repository\\MotoRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T23:29:02.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioControllerer.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Properties\\Controller\\UsuarioControllerer.cs",
+              "RelativeDocumentMoniker": "Challenge\\Properties\\Controller\\UsuarioControllerer.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Properties\\Controller\\UsuarioControllerer.cs",
+              "RelativeToolTip": "Challenge\\Properties\\Controller\\UsuarioControllerer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T03:49:19.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Dtos\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Challenge\\Application\\Dtos\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Dtos\\UsuarioDto.cs",
+              "RelativeToolTip": "Challenge\\Application\\Dtos\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:38:45.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioMappers.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Mappers\\UsuarioMappers.cs",
+              "RelativeDocumentMoniker": "Challenge\\Application\\Mappers\\UsuarioMappers.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Mappers\\UsuarioMappers.cs",
+              "RelativeToolTip": "Challenge\\Application\\Mappers\\UsuarioMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:25:46.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:27:07.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Challenge\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Properties\\launchSettings.json",
               "RelativeToolTip": "Challenge\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwB4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -186,48 +399,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FilialResponseListSample.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\FilialResponseListSample.cs",
-              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\FilialResponseListSample.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\FilialResponseListSample.cs",
-              "RelativeToolTip": "Challenge\\Doc\\Samples\\FilialResponseListSample.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "FilialMappers.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Mappers\\FilialMappers.cs",
+              "RelativeDocumentMoniker": "Challenge\\Application\\Mappers\\FilialMappers.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Application\\Mappers\\FilialMappers.cs",
+              "RelativeToolTip": "Challenge\\Application\\Mappers\\FilialMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T22:33:11.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FilialController.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Properties\\Controller\\FilialController.cs",
-              "RelativeDocumentMoniker": "Challenge\\Properties\\Controller\\FilialController.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Properties\\Controller\\FilialController.cs",
-              "RelativeToolTip": "Challenge\\Properties\\Controller\\FilialController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T03:37:15.858Z",
+              "WhenOpened": "2025-09-24T23:01:13.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsuarioControllerer.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Properties\\Controller\\UsuarioControllerer.cs",
-              "RelativeDocumentMoniker": "Challenge\\Properties\\Controller\\UsuarioControllerer.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Properties\\Controller\\UsuarioControllerer.cs",
-              "RelativeToolTip": "Challenge\\Properties\\Controller\\UsuarioControllerer.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAiwMUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T03:49:19.532Z"
+              "DocumentIndex": 21,
+              "Title": "Challenge.http",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Challenge.http",
+              "RelativeDocumentMoniker": "Challenge\\Challenge.http",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Challenge.http",
+              "RelativeToolTip": "Challenge\\Challenge.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-20T04:11:49.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Program.cs",
               "RelativeDocumentMoniker": "Challenge\\Program.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Program.cs",
               "RelativeToolTip": "Challenge\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAcwDkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,422 +438,222 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Challenge.http",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Challenge.http",
-              "RelativeDocumentMoniker": "Challenge\\Challenge.http",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Challenge.http",
-              "RelativeToolTip": "Challenge\\Challenge.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-09-20T04:11:49.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FilialMappers.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Application\\Mappers\\FilialMappers.cs",
-              "RelativeDocumentMoniker": "Challenge\\Application\\Mappers\\FilialMappers.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Application\\Mappers\\FilialMappers.cs",
-              "RelativeToolTip": "Challenge\\Application\\Mappers\\FilialMappers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:01:13.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FilialEntity.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Domain\\Models\\FilialEntity.cs",
-              "RelativeDocumentMoniker": "Challenge\\Domain\\Models\\FilialEntity.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Domain\\Models\\FilialEntity.cs",
-              "RelativeToolTip": "Challenge\\Domain\\Models\\FilialEntity.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T23:05:07.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FilialDto.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Application\\Dtos\\FilialDto.cs",
-              "RelativeDocumentMoniker": "Challenge\\Application\\Dtos\\FilialDto.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Application\\Dtos\\FilialDto.cs",
-              "RelativeToolTip": "Challenge\\Application\\Dtos\\FilialDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T22:37:56.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MotoEntity.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Domain\\Models\\MotoEntity.cs",
-              "RelativeDocumentMoniker": "Challenge\\Domain\\Models\\MotoEntity.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Domain\\Models\\MotoEntity.cs",
-              "RelativeToolTip": "Challenge\\Domain\\Models\\MotoEntity.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T22:59:36.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FilialRequestSample.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\FilialRequestSample.cs",
-              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\FilialRequestSample.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\FilialRequestSample.cs",
-              "RelativeToolTip": "Challenge\\Doc\\Samples\\FilialRequestSample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T22:32:23.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MotoResponseSample.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\MotoResponseSample.cs",
-              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\MotoResponseSample.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\MotoResponseSample.cs",
-              "RelativeToolTip": "Challenge\\Doc\\Samples\\MotoResponseSample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T05:44:35.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MotoRequestSample.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\MotoRequestSample.cs",
-              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\MotoRequestSample.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\MotoRequestSample.cs",
-              "RelativeToolTip": "Challenge\\Doc\\Samples\\MotoRequestSample.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T05:43:55.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MotoResponseListSample.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\MotoResponseListSample.cs",
-              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\MotoResponseListSample.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\MotoResponseListSample.cs",
-              "RelativeToolTip": "Challenge\\Doc\\Samples\\MotoResponseListSample.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwB8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T05:21:57.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MotoController.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Properties\\Controller\\MotoController.cs",
-              "RelativeDocumentMoniker": "Challenge\\Properties\\Controller\\MotoController.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Properties\\Controller\\MotoController.cs",
-              "RelativeToolTip": "Challenge\\Properties\\Controller\\MotoController.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAcwJQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:16:12.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UsuarioResponseSample.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\UsuarioResponseSample.cs",
-              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\UsuarioResponseSample.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\UsuarioResponseSample.cs",
-              "RelativeToolTip": "Challenge\\Doc\\Samples\\UsuarioResponseSample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T21:04:16.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FilialResponseSample.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\FilialResponseSample.cs",
-              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\FilialResponseSample.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\FilialResponseSample.cs",
-              "RelativeToolTip": "Challenge\\Doc\\Samples\\FilialResponseSample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T22:33:51.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UsuarioResponseListSample.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\UsuarioResponseListSample.cs",
-              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\UsuarioResponseListSample.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\UsuarioResponseListSample.cs",
-              "RelativeToolTip": "Challenge\\Doc\\Samples\\UsuarioResponseListSample.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T21:03:42.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UsuarioRequestSample.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\UsuarioRequestSample.cs",
-              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\UsuarioRequestSample.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Doc\\Samples\\UsuarioRequestSample.cs",
-              "RelativeToolTip": "Challenge\\Doc\\Samples\\UsuarioRequestSample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T20:51:19.102Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\ApplicationContext.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\ApplicationContext.cs",
-              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\ApplicationContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "FilialResponseListSample.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\FilialResponseListSample.cs",
+              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\FilialResponseListSample.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\FilialResponseListSample.cs",
+              "RelativeToolTip": "Challenge\\Doc\\Samples\\FilialResponseListSample.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T19:46:22.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MotoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\MotoRepository.cs",
-              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\Repository\\MotoRepository.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\MotoRepository.cs",
-              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\Repository\\MotoRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T23:29:02.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IMotoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IMotoRepository.cs",
-              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\Interfaces\\IMotoRepository.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IMotoRepository.cs",
-              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\Interfaces\\IMotoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T23:29:41.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\Interfaces\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\Interfaces\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T18:27:07.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MotoDto.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Application\\Dtos\\MotoDto.cs",
-              "RelativeDocumentMoniker": "Challenge\\Application\\Dtos\\MotoDto.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Application\\Dtos\\MotoDto.cs",
-              "RelativeToolTip": "Challenge\\Application\\Dtos\\MotoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T00:12:06.617Z"
+              "WhenOpened": "2025-09-28T22:33:11.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "MotoMappers.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Application\\Mappers\\MotoMappers.cs",
-              "RelativeDocumentMoniker": "Challenge\\Application\\Mappers\\MotoMappers.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Application\\Mappers\\MotoMappers.cs",
-              "RelativeToolTip": "Challenge\\Application\\Mappers\\MotoMappers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAsAAAAkAAAAAAAAAA==",
+              "Title": "FilialRequestSample.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\FilialRequestSample.cs",
+              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\FilialRequestSample.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\FilialRequestSample.cs",
+              "RelativeToolTip": "Challenge\\Doc\\Samples\\FilialRequestSample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T00:24:38.594Z"
+              "WhenOpened": "2025-09-28T22:32:23.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MotoResponseSample.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\MotoResponseSample.cs",
+              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\MotoResponseSample.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\MotoResponseSample.cs",
+              "RelativeToolTip": "Challenge\\Doc\\Samples\\MotoResponseSample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T05:44:35.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\Repository\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\UsuarioRepository.cs",
-              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Title": "MotoRequestSample.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\MotoRequestSample.cs",
+              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\MotoRequestSample.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\MotoRequestSample.cs",
+              "RelativeToolTip": "Challenge\\Doc\\Samples\\MotoRequestSample.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T18:44:01.252Z"
+              "WhenOpened": "2025-09-28T05:43:55.066Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "UsuarioEntity.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Domain\\Models\\UsuarioEntity.cs",
-              "RelativeDocumentMoniker": "Challenge\\Domain\\Models\\UsuarioEntity.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Domain\\Models\\UsuarioEntity.cs",
-              "RelativeToolTip": "Challenge\\Domain\\Models\\UsuarioEntity.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAYAAAARAAAAAAAAAA==",
+              "Title": "MotoResponseListSample.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\MotoResponseListSample.cs",
+              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\MotoResponseListSample.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\MotoResponseListSample.cs",
+              "RelativeToolTip": "Challenge\\Doc\\Samples\\MotoResponseListSample.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwB8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T17:15:43.836Z"
+              "WhenOpened": "2025-09-28T05:21:57.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "UsuarioMappers.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Application\\Mappers\\UsuarioMappers.cs",
-              "RelativeDocumentMoniker": "Challenge\\Application\\Mappers\\UsuarioMappers.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Application\\Mappers\\UsuarioMappers.cs",
-              "RelativeToolTip": "Challenge\\Application\\Mappers\\UsuarioMappers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Title": "UsuarioResponseSample.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\UsuarioResponseSample.cs",
+              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\UsuarioResponseSample.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\UsuarioResponseSample.cs",
+              "RelativeToolTip": "Challenge\\Doc\\Samples\\UsuarioResponseSample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T15:25:46.122Z"
+              "WhenOpened": "2025-09-21T21:04:16.096Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "IFialialRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IFialialRepository.cs",
-              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\Interfaces\\IFialialRepository.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\Interfaces\\IFialialRepository.cs",
-              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\Interfaces\\IFialialRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Title": "FilialResponseSample.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\FilialResponseSample.cs",
+              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\FilialResponseSample.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\FilialResponseSample.cs",
+              "RelativeToolTip": "Challenge\\Doc\\Samples\\FilialResponseSample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T20:55:08.669Z"
+              "WhenOpened": "2025-09-28T22:33:51.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "FilialRepositiry.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\FilialRepositiry.cs",
-              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\Repository\\FilialRepositiry.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Infrastructure\\Data\\Repository\\FilialRepositiry.cs",
-              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\Repository\\FilialRepositiry.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAfAAAAAAAAAA==",
+              "Title": "UsuarioResponseListSample.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\UsuarioResponseListSample.cs",
+              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\UsuarioResponseListSample.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\UsuarioResponseListSample.cs",
+              "RelativeToolTip": "Challenge\\Doc\\Samples\\UsuarioResponseListSample.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T20:59:46.099Z"
+              "WhenOpened": "2025-09-21T21:03:42.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "UsuarioDto.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Application\\Dtos\\UsuarioDto.cs",
-              "RelativeDocumentMoniker": "Challenge\\Application\\Dtos\\UsuarioDto.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Application\\Dtos\\UsuarioDto.cs",
-              "RelativeToolTip": "Challenge\\Application\\Dtos\\UsuarioDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Title": "UsuarioRequestSample.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\UsuarioRequestSample.cs",
+              "RelativeDocumentMoniker": "Challenge\\Doc\\Samples\\UsuarioRequestSample.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Doc\\Samples\\UsuarioRequestSample.cs",
+              "RelativeToolTip": "Challenge\\Doc\\Samples\\UsuarioRequestSample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T00:38:45.371Z"
+              "WhenOpened": "2025-09-21T20:51:19.102Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Challenge\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Challenge\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Challenge\\Infrastructure\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Infrastructure\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "Challenge\\Infrastructure\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T04:15:22.287Z"
+              "WhenOpened": "2025-09-19T19:46:22.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "Challenge.csproj",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Challenge.csproj",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Challenge.csproj",
               "RelativeDocumentMoniker": "Challenge\\Challenge.csproj",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Challenge.csproj",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Challenge.csproj",
               "RelativeToolTip": "Challenge\\Challenge.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-19T20:16:36.98Z"
+              "WhenOpened": "2025-09-19T20:16:36.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "Challenge",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Challenge.csproj",
+              "Title": "Challenge.csproj",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Challenge.csproj",
               "RelativeDocumentMoniker": "Challenge\\Challenge.csproj",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Challenge.csproj",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Challenge.csproj",
               "RelativeToolTip": "Challenge\\Challenge.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-09-21T20:52:46.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 34,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Challenge\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\appsettings.Development.json",
               "RelativeToolTip": "Challenge\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-20T04:12:23.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Class.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Domain\\Models\\Class.cs",
-              "RelativeDocumentMoniker": "Challenge\\Domain\\Models\\Class.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Domain\\Models\\Class.cs",
-              "RelativeToolTip": "Challenge\\Domain\\Models\\Class.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T17:15:03.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\appsettings.json",
-              "RelativeDocumentMoniker": "Challenge\\appsettings.json",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\appsettings.json",
-              "RelativeToolTip": "Challenge\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-19T17:32:29.751Z"
+              "WhenOpened": "2025-09-20T04:12:23.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\appsettings.json",
+              "RelativeDocumentMoniker": "Challenge\\appsettings.json",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\appsettings.json",
+              "RelativeToolTip": "Challenge\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T17:32:29.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Challenge\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\WeatherForecast.cs",
               "RelativeToolTip": "Challenge\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T19:42:25.344Z"
+              "WhenOpened": "2025-09-21T19:42:25.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "Challenge.csproj.Backup.tmp",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Challenge.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Challenge.csproj.Backup.tmp",
               "RelativeDocumentMoniker": "Challenge\\Challenge.csproj.Backup.tmp",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Challenge\\Challenge\\Challenge.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\\u00C1rea de Trabalho\\sprint-net\\Challenge\\Challenge\\Challenge.csproj.Backup.tmp",
               "RelativeToolTip": "Challenge\\Challenge.csproj.Backup.tmp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-21T04:36:16.045Z"
+              "WhenOpened": "2025-09-21T04:36:16.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 17,
               "Title": "readme.txt",
               "DocumentMoniker": "C:\\Users\\vinic\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.121\\readme.txt",
-              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.121\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.121\\readme.txt",
               "ToolTip": "C:\\Users\\vinic\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.121\\readme.txt",
-              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.121\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.121\\readme.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-09-19T17:29:44.582Z"
+              "WhenOpened": "2025-09-19T17:29:44.582Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

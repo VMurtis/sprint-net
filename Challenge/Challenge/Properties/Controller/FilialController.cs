@@ -95,7 +95,7 @@ namespace Challenge.Properties.Controller
             return NoContent();
         }
 
-        // DELETE: api/filial/{id}
+        
         [SwaggerOperation(
             Summary = "Exclui um filial",
             Description = "Remove um filial específico do banco de dados.")]

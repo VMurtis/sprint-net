@@ -3,7 +3,6 @@ using Challenge.Doc.Samples;
 using Challenge.Domain.Models;
 using Challenge.Infrastructure.Data;
 using Challenge.Infrastructure.Data.Interfaces;
-//using Challenge.Mappers;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.RateLimiting;
 using Microsoft.EntityFrameworkCore;
@@ -29,7 +28,7 @@ namespace Challenge.Properties.Controller
             _context = context;
         }
 
-        // ====================== GET ALL ======================
+        
         [HttpGet]
         [EnableRateLimiting("rateLimitePolicy")]
         [SwaggerOperation(
@@ -41,25 +40,7 @@ namespace Challenge.Properties.Controller
         [SwaggerResponseExample(statusCode: 200, typeof(UsuarioResponseListSample))]
         public async Task<IActionResult> Get()
         {
-            /*var usuarios = await _context.Usuario.ToListAsync();
-            if (!usuarios.Any())
-                return NoContent();
-
-            var Id = result.FirstOrDefault()?.Id ?? 0;
-
-            var hateoas = new
-            {
-                data = result,
-                links = new
-                {
-                    self = Url.Action(nameof(Get), "Usuario", null),
-                    getById = Url.Action(nameof(Get), "Usuario", new { id = Id }),
-                    put = Url.Action(nameof(Put), "Usuario", new { id = Id }),
-                    delete = Url.Action(nameof(Delete), "Usuario", new { Id = Id }),
-                }
-
-
-            };*/
+           
             var usuarios = await _context.Usuario.ToListAsync();
             if (!usuarios.Any())
                 return NoContent();
@@ -93,7 +74,7 @@ namespace Challenge.Properties.Controller
             return Ok(hateoas);
         }
 
-        // ====================== GET BY ID ======================
+        
         [SwaggerOperation(
             Summary = "Busca um usuário pelo ID",
             Description = "Retorna um usuário específico a partir do seu ID.")]
@@ -110,7 +91,7 @@ namespace Challenge.Properties.Controller
             return Ok(result);
         }
 
-        // ====================== POST ======================
+        
         [HttpPost]
         [SwaggerRequestExample(typeof(UsuarioDto), typeof(UsuarioRequestSample))]
         [SwaggerResponse(statusCode: 201, description: "Usuário salvo com sucesso", type: typeof(UsuarioEntity))]
@@ -118,22 +99,7 @@ namespace Challenge.Properties.Controller
         [SwaggerResponseExample(statusCode: 201, typeof(UsuarioResponseSample))]
         public async Task<IActionResult> Post(int id, UsuarioDto entity)
         {
-            /*if (!ModelState.IsValid)
-                return BadRequest(ModelState);
-
-            // Convertendo DTO para Entity
-            var usuarioEntity = new UsuarioEntity
-            {
-                Nome = entity.Nome,
-                Email = entity.Email,
-                Cpf = entity.Cpf,
-                Telefone = entity.Telefone
-            };
-
-            _context.Usuario.Add(usuarioEntity);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction(nameof(Get), new { id = usuarioEntity.Id }, usuarioEntity);*/
+            
             try
             {
                 var result
@@ -146,7 +112,7 @@ namespace Challenge.Properties.Controller
             }
         }
 
-        // ====================== PUT ======================
+        
         [SwaggerOperation(
             Summary = "Atualiza um usuário existente",
             Description = "Atualiza os dados de um usuário já cadastrado.")]
@@ -155,18 +121,7 @@ namespace Challenge.Properties.Controller
         [HttpPut("{id}")]
         public async Task<IActionResult> Put(int id, UsuarioDto entity)
         {
-            /*var usuarioExists = await _context.Usuario.FindAsync(id);
-            if (usuarioExists is null)
-                return NotFound();
-
-            usuarioExists.Nome = usuarioEntity.Nome;
-            usuarioExists.Email = usuarioEntity.Email;
-            usuarioExists.Cpf = usuarioEntity.Cpf;
-            usuarioExists.Telefone = usuarioEntity.Telefone;
-
-            _context.Usuario.Update(usuarioExists);
-            await _context.SaveChangesAsync();
-            return Ok(usuarioExists);*/
+            
 
             var result = await _usuarioRepository.EditarAsync(id, entity.ToUsuarioEntity());
 
@@ -175,7 +130,7 @@ namespace Challenge.Properties.Controller
             return Ok(entity);
         }
 
-        // ====================== DELETE ======================
+        
         [SwaggerOperation(
             Summary = "Exclui um usuário",
             Description = "Remove um usuário específico do banco de dados.")]

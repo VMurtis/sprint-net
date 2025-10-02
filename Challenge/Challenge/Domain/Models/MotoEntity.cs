@@ -10,28 +10,28 @@ namespace Challenge.Domain.Models
     
 
     {
-        [Key]  // Define a chave primária da entidade
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]  // A chave é gerada automaticamente
-        [Column("cd_moto")]  // Nome da coluna no banco
+        [Key]  
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)] 
+        [Column("cd_moto")]  
         public int IdMoto { get; set; }
 
-        [Column("modelo", TypeName = "nvarchar(100)")]  // Define o tipo da coluna e tamanho
+        [Column("modelo", TypeName = "nvarchar(100)")]  
         [Required]
         public string? Modelo { get; set; }
 
-        [Column("placa", TypeName = "nvarchar(100)")]  // Define o tipo da coluna e tamanho
-        [Required]  // Define que o campo é obrigatório (não pode ser nulo)
+        [Column("placa", TypeName = "nvarchar(100)")]  
+        [Required]  
         public string? Placa { get; set; }
 
         [Column("chassi", TypeName = "nvarchar(100)")]
         [Required]
         public string? Chassi { get; set; }
 
-        // Relacionamento Many-to-One com a entidade Usuario
-        [ForeignKey("Usuario")]  // Chave estrangeira que se refere à entidade Usuario
-        [Column("cd_user")]  // Nome da coluna no banco
-        public long UsuarioId { get; set; }  // A chave estrangeira
-        public UsuarioEntity? Usuario { get; set; }  // Navegação para a entidade Usuario
+        
+        [ForeignKey("Usuario")]  
+        [Column("cd_user")]  
+        public long UsuarioId { get; set; }  
+        public UsuarioEntity? Usuario { get; set; }  
 
         [Column("iot_info", TypeName = "nvarchar(100)")]
         [Required]
@@ -54,16 +54,17 @@ namespace Challenge.Domain.Models
         public string? IdFilial { get; set; }
 
 
-        // Relacionamento Many-to-One com a entidade Usuario
-        [ForeignKey("Usuario")]  // Chave estrangeira para a entidade Usuario
-        [Column("usuario_id")]  // Nome da coluna no banco
-        public long UsuarioId2 { get; set; }  // Chave estrangeira
-        public UsuarioEntity? Usuario2 { get; set; }  // Navegação para o segundo relacionamento com Usuario
 
-        // Relacionamento Many-to-One com a entidade Filial
-        [ForeignKey("Filial")]  // Chave estrangeira para a entidade Filial
-        [Column("filial_id")]  // Nome da coluna no banco
-        public long FilialId { get; set; }  // Chave estrangeira
+        
+        [ForeignKey("Filial")]  
+        [Column("filial_id")]  
+        public long FilialId { get; set; }  
         public FilialEntity? Filial { get; set; }
+
+        
+        [ForeignKey("Usuario")]
+        [Column("usuario_id")]
+        public int UsuarioId { get; set; }  
+        public UsuarioEntity? Usuario { get; set; }
     }
 }
