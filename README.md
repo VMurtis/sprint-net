@@ -21,28 +21,12 @@
 
 </div>
 
----
 
-## 🧭 Índice
-
-1.  [**🎯 Sobre o Projeto**](#-sobre-o-projeto)
-2.  [**✨ Funcionalidades Principais**](#-funcionalidades-principais)
-3.  [**🏗️ Filosofia de Arquitetura**](#️-filosofia-de-arquitetura)
-    -   [Decisões de Arquitetura](#-decisões-de-arquitetura)
-4.  [**🛠️ Tech Stack**](#️-tech-stack)
-5.  [**🗃️ Modelo de Dados**](#️-modelo-de-dados)
-6.  [**🐳 Docker**](#-docker)
-7.  [**🚀 Como Executar**](#-como-executar)
-8. [**📖 Guia da API**](#-guia-da-api)
-9. [**🔗Deploy No Render**](#-deploy-no-render)
-
-
----
 
 ## 🎯 Sobre o Projeto
 
 > Esta API foi desenvolvida como parte de um **Challenge .NET**.  
-O sistema possibilita o gerenciamento de **Usuários** e **Motos**, fornecendo operações CRUD completas, documentação interativa com Swagger, e implementando boas práticas como **HATEOAS** e **Rate Limiting**.
+O sistema possibilita o gerenciamento de **Filial** **Usuários** e **Motos**, fornecendo operações CRUD completas, documentação interativa com Swagger, e implementando boas práticas como **HATEOAS** e **Rate Limiting**.
 
 ---
 
